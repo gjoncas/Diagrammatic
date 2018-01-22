@@ -15,6 +15,9 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 <b>Deleuze & Guattari - <i>Anti-Oedipus</i>, p. 282</b>
 <br>2018.01.12: Finished.
 
+<b>Matthews - “<a ref="https://www.newscientist.com/article/mg14719934-300-the-man-who-played-god-with-infinity/">The man who played God with infinity</a>” (1995) &nbsp;[surreal numbers]</b>
+<br>2018.01.22: Finished.
+
 &nbsp;
 
 <b>See Also:</b>
