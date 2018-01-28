@@ -15,6 +15,9 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 <b>Deleuze & Guattari - <i>Anti-Oedipus</i>, p. 282</b>
 <br>2018.01.12: Finished.
 
+<b>Freud’s first & second topographies</b>
+<br>2018.01.28: Mostly done. Dotted lines are ugly.
+
 <b>Jameson - <i>Postmodernism, or, The Cultural Logic of Late Capitalism</i>, p. 10</b>
 <br>2018.01.28: Finished.
 
