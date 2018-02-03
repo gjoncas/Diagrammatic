@@ -29,6 +29,10 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 &nbsp;
 
-<b>See Also:</b>
-<br>Gangle, R. (2016). <i>Diagrammatic Immanence: Category Theory and Philosophy</i>. Edinburgh: Edinburgh University Press
-<br>Watson, J. (2009). <i>Guattari's Diagrammatic Thought: Writing Between Lacan and Deleuze</i>. New York: Continuum
+## Related Works
+<ul>
+<li>Gangle, R. (2016). <i>Diagrammatic Immanence: Category Theory and Philosophy</i>. Edinburgh: Edinburgh University Press</li>
+<li>O’Sullivan, S. (1992). <i>On the Production of Subjectivity: Five Diagrams of the Finite-Infinite Relation</i>. New York: Palgrave Macmillan.</li>
+<li>O’Sullivan, S. (<a href="http://www.simonosullivan.net/articles/on_the_diagram.pdf">2016</a>). “On the Diagram (and a Practice of Diagrammatics),” in Schneider, K. & Yasar, B. (Eds.). (2016). <i>Situational Diagram</i>. New York: Dominique Lévy, pp. 13-25</li>
+<li>Watson, J. (2009). <i>Guattari's Diagrammatic Thought: Writing Between Lacan and Deleuze</i>. New York: Continuum</li>
+</ul>
