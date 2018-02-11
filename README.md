@@ -21,6 +21,9 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 <b>Jameson - <i>Postmodernism, or, The Cultural Logic of Late Capitalism</i>, p. 10</b>
 <br>2018.01.28: Finished.
 
+<b>Jung - <i>Aion: Researches into the Phenomenology of the Self</i> (1959), pp. 257-60</b>
+<br>2018.02.11: Finished.
+
 <b>Laing - <i>Knots</i> (1970)</b>
 <br>2018.01.29: Finished.
 
