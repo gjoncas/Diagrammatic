@@ -40,6 +40,7 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 <li>Châtelet, G.; Shore, R. & Zagha, M. (trans.). (2000). <i>Figuring Space: Philosophy, Mathematics, & Physics</i>. Dordrecht: Kluwer</li>
 <li>Gangle, R. (2016). <i>Diagrammatic Immanence: Category Theory and Philosophy</i>. Edinburgh: Edinburgh University Press</li>
 <li>Guattari, F.; Goffey, A. (trans.). <i>Schizoanalytic Cartographies</i>. New York: Bloomsbury</li>
+<li>Mullarkey, J. (2006). <i>Post-Continental Philosophy: An Outline</i>. New York: Continuum, ch. 5: Thinking in Diagrams</li>
 <li>O’Sullivan, S. (1992). <i>On the Production of Subjectivity: Five Diagrams of the Finite-Infinite Relation</i>. New York: Palgrave Macmillan</li>
 <li>O’Sullivan, S. (<a href="http://www.simonosullivan.net/articles/on_the_diagram.pdf">2016</a>). “On the Diagram (and a Practice of Diagrammatics),” in Schneider, K. & Yasar, B. (Eds.). (2016). <i>Situational Diagram</i>. New York: Dominique Lévy, pp. 13-25</li>
 <li>Watson, J. (2009). <i>Guattari's Diagrammatic Thought: Writing Between Lacan and Deleuze</i>. New York: Continuum</li>
