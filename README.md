@@ -24,6 +24,9 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 <b>Freud’s first & second topographies</b>
 <br>2018.01.28: Mostly done. Dotted lines are ugly.
 
+<b>Harman - <i>The Quadruple Object</i>, pp. 33, 48, 50, 78, 89, 107, 114-5</b>
+<br>18.03.02: Mostly done. Broken line diagram is ugly.
+
 <b>Jameson - <i>Postmodernism, or, The Cultural Logic of Late Capitalism</i>, p. 10</b>
 <br>2018.01.28: Finished.
 
