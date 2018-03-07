@@ -12,6 +12,9 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 ## Updates
 
+<b>Althusser - <i>Philosophy and the Spontaneous Philosophy of the Scientists</i>, p. 164</b>
+<br>2018.03.07: Finished.
+
 <b>Badiou - <i>Conditions</i>, pp. 121, 197</b>
 <br>2018.03.01: Finished.
 
