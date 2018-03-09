@@ -42,6 +42,9 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 <b>Matthews - “<a ref="https://www.newscientist.com/article/mg14719934-300-the-man-who-played-god-with-infinity/">The man who played God with infinity</a>” (1995) &nbsp;[surreal numbers]</b>
 <br>2018.01.22: Finished.
 
+<b>Oden - <i>The Structure of Awareness</i> (1969)</b>
+<br>2018.03.09: Finished. &nbsp;[the structure of boredom]
+
 <b>Srnicek - Neoplatonism versus Nonphilosophy (<a href="http://speculativeheresy.files.wordpress.com/2010/03/neoplatonism-and-nonphilosophy.jpg">2010</a>)</b>
 <br>2018.02.24: Finished.
 
