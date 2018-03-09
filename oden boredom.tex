@@ -1,0 +1,139 @@
+\documentclass{scrartcl}
+
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{tikz}
+
+%via Thomas C. Oden - The Structure of Awareness (1969)
+
+\begin{document}
+	
+	\hspace{-3cm}
+	\begin{tikzpicture}[>=latex]
+	%lines
+	\draw[->,very thick,dashed] (-0.6,0)--(-3.75,0);	%self--past
+	\draw[->,very thick,dashed] (-4.8,0)--(-8.15,0);	%future--negated god
+	%
+	\draw[->,very thick,dashed] (0.5,0)--(3.5,0);		%self--future
+	\draw[->,very thick,dashed] (5.3,0)--(8.15,0);		%future--threatened god
+	%
+	\draw[->,very thick,dashed] (0,0)--(0,-3.5);		%self--now
+	\draw[->,very thick,dashed] (0,-4.65)--(0,-7.25);	%now--meaninglessness
+	
+	%manual fill - lines
+	\draw[line width=9pt, color=white] (-0.35,0)--(0.35,0);		%self
+	\draw[line width=9pt, color=white] (-2.7,0)--(-1.4,0);		%memory
+	\draw[line width=9pt, color=white] (-5.8,0)--(-7.1,0);		%negated
+	%
+	\draw[line width=9pt, color=white] (0.9,0)--(2.75,0);		%imagination
+	\draw[line width=9pt, color=white] (5.65,0)--(7.4,0);		%threatened
+	%
+	\draw[line width=9pt, color=white] (0,-0.6)--(0,-2.65);		%experiencing
+	\draw[line width=9pt, color=white] (0,-5.25)--(0,-6.5);		%emptiness
+	
+	%arrows
+	\draw[->,very thick] (-3.85,0.3) to[out=55,in=135] (-0.27,0.4);		%past--self
+	\draw[->,very thick] (-6.75,-0.55) to[out=305,in=245] (-4,-0.25);	%value--past
+	\draw[->,very thick] (-9,-0.55)..controls (-8.75,-3.6) and (-4.25,-3.6)..(-4,-0.55); %god--past
+	%
+	\draw[->,very thick] (3.65,0.3) to[out=125,in=45] (0.25,0.4);		%future--self
+	\draw[->,very thick] (6.85,-0.55) to[out=255,in=285] (4,-0.25);		%value--future
+	\draw[->,very thick] (9,-0.55)..controls (8.75,-3.6) and (4.25,-3.6)..(4,-0.55);	 %god--future
+	%
+	\draw[->,very thick] (0.6,-4.1) to[out=25,in=335] (0.5,-0.25);		%now--self
+	\draw[->,very thick] (-1.35,-5.9) to[out=145,in=215] (-1.3,-4.4);	%emptiness--now
+	\draw[->,very thick] (-2.2,-8.25)..controls (-5.25,-8) and (-4.5,-5)..(-1.6,-4.4);	 %meaninglessness--now
+	
+	%manual fill - arrows
+	\draw[line width=11pt, color=white] (-2.9,1)--(-1.1,1);			%forgiveness
+	\draw[line width=15pt, color=white] (-7.7,-2.7)--(-5.35,-2.7);	%demonic guilt
+	\draw[line width=9pt, color=white] (-6.15,-1)--(-4.85,-1);		%guilt
+	%
+	\draw[line width=11pt, color=white] (1.5,1)--(2.5,1);			%trust
+	\draw[line width=15pt, color=white] (5.13,-2.7)--(7.85,-2.7);	%demonic anxiety
+	\draw[line width=11pt, color=white] (4.6,-1.1)--(6.45,-1.1);	%anxiety
+	%
+	\draw[line width=9pt, color=white] (1,-2)--(3,-2);				%responsiveness
+	\draw[line width=11pt, color=white] (-3,-5.3)--(-1,-5.3);		%boredom
+	\draw[line width=9pt, color=white] (-6,-7.5)--(-3,-7.5);		%demonic boredom
+	
+	%labels - arrows
+	\node at (-2,1.5)	 {\textbf{8}};
+	\node at (-2,1.15)	 {{\small Forgiveness}};
+	\node at (-5.5,-0.7) {\textbf{5}};
+	\node at (-5.5,-1.1) {GUILT};
+	\node at (-6.5,-2.25){\textbf{7}};
+	\node at (-6.5,-2.6) {{\small Demonic Guilt}};
+	%
+	\node at (2,1.5)	 {\textbf{8}};
+	\node at (2,1.15)	 {{\small Trust}};
+	\node at (5.5,-0.7)  {\textbf{5}};
+	\node at (5.5,-1.1)  {ANXIETY};
+	\node at (6.5,-2.25) {\textbf{7}};
+	\node at (6.5,-2.6)	 {{\small Demonic Anxiety}};
+	%
+	\node at (1.8,-1.65) {\textbf{8}};
+	\node at (1.8,-2)	 {{\small Responsiveness}};
+	\node at (-2,-4.9)	 {\textbf{5}};
+	\node at (-2,-5.3)	 {BOREDOM};
+	\node at (-4.5,-7.15){\textbf{7}};
+	\node at (-4.5,-7.5) {{\small Demonic Boredom}};
+	
+	%labels - top
+	\node at (0,3.55) 	 {{\Large \textsf{III}}};
+	\node at (0,3) 		 {{\Large \textsf{THE STRUCTURE OF BOREDOM}}};
+		\draw[->,ultra thick] (0,2.75)--(0,2);
+	\node at (-7.5,2.55) {{\Large \textsf{I}}};
+	\node at (-7.5,2.1)  {{\large \textsf{(The Structure of Guilt)}}};
+		\draw[->,ultra thick] (-7.5,1.8)--(-7.5,1.2);
+	\node at (7.5,2.55)	 {{\Large \textsf{II}}};
+	\node at (7.5,2.1) 	 {{\large \textsf{(The Structure of Anxiety)}}};
+		\draw[->,ultra thick] (7.5,1.8)--(7.5,1.2);
+	%
+	\node at (0,0.35) 	 {\textbf{1}};
+	\node at (0,0) 		 {SELF};
+	
+	%labels - left line
+	\node at (-2,0.35)	 {\textbf{2}};
+	\node at (-2,-.05)	 {{\small memory}};
+	\node at (-4.25,0.35){\textbf{3}};
+	\node at (-4.25,0) 	 {PAST};
+	\node at (-6.45,0.35){\textbf{4}};
+	\node at (-6.45,0) 	 {{\small Negated}};
+	\node at (-6.45,-.35){{\small value}};
+	\node at (-8.9,0.35) {\textbf{6}};
+	\node at (-8.9,0)  	 {{\small Negated}};
+	\node at (-8.9,-0.35){{\small god}};
+	
+	%labels - right line
+	\node at (1.85,0.35) {\textbf{2}};
+	\node at (1.85,0) 	 {{\small imagination}};
+	\node at (4.38,0.35) {\textbf{3}};
+	\node at (4.38,0) 	 {FUTURE};
+	\node at (6.53,0.35) {\textbf{4}};
+	\node at (6.53,0) 	 {{\small Threatened}};
+	\node at (6.53,-.35) {{\small value}};
+	\node at (9.1,0.35)	 {\textbf{6}};
+	\node at (9.1,0)  	 {{\small Threatened}};
+	\node at (9.1,-0.35) {{\small god}};
+	
+	%labels - lower line
+	\node at (-.35,-1.65){\rotatebox{90}{\textbf{2}}};
+	\node at (0,-1.65) 	 {\rotatebox{90}{{\small experiencing}}};
+	\node at (0,-3.72) 	 {\textbf{3}};
+	\node at (0,-4.1) 	 {NOW};
+	\node at (0,-4.45) 	 {{\small Present Moment}};
+	\node at (0,-5.4) 	 {\textbf{4}};
+	\node at (0,-5.75) 	 {{\small Emptiness}};
+	\node at (0,-6.12) 	 {{\scriptsize (impossibility of value}};
+	\node at (0,-6.42) 	 {{\scriptsize actualization)}};
+	\node at (0,-7.48) 	 {\textbf{6}};
+	\node at (0,-7.85) 	 {{\small Meaninglessness}};
+	\node at (0,-8.2) 	 {{\scriptsize (irrelevance of our gods to now)}};
+	
+	%\draw[help lines] (-9,-8) grid (9,4);
+	\end{tikzpicture}
+	%	\caption{...}
+	%\end{figure}
+	
+\end{document}
