@@ -48,7 +48,7 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 <b>Srnicek - Neoplatonism versus Nonphilosophy (<a href="http://speculativeheresy.files.wordpress.com/2010/03/neoplatonism-and-nonphilosophy.jpg">2010</a>)</b>
 <br>2018.02.24: Finished.
 
-<b>Žižek - <i>The Plague of Fantasies</i> (2nd Ed.), p. 223</b>
+<b>Žižek - <i>The Plague of Fantasies</i>, p. 223</b>
 <br>2018.03.10: Finished.
 
 &nbsp;
