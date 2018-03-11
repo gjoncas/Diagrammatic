@@ -42,8 +42,8 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 <b>Laing - <i>Knots</i> (1970)</b>
 <br>2018.01.29: Finished.
 
-<b>Matthews - “<a ref="https://www.newscientist.com/article/mg14719934-300-the-man-who-played-god-with-infinity/">The man who played God with infinity</a>” (1995) &nbsp;[surreal numbers]</b>
-<br>2018.01.22: Finished.
+<b>Matthews - “<a ref="https://www.newscientist.com/article/mg14719934-300-the-man-who-played-god-with-infinity/">The man who played God with infinity</a>” (1995)</b>
+<br>2018.01.22: Finished. &nbsp;[surreal numbers]
 
 <b>Oden - <i>The Structure of Awareness</i> (1969)</b>
 <br>2018.03.09: Finished. &nbsp;[the structure of boredom]
