@@ -21,6 +21,9 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 <b>Barthes - <i>S/Z</i>, pp. 27-9, 129</b>
 <br>2018.02.18: Finished.
 
+<b>Deleuze & Guattari - <i>A Thousand Plateaus</i>, pp. 135 & 137</b>
+<br>2018.03.11 Finished.
+
 <b>Deleuze & Guattari - <i>Anti-Oedipus</i>, p. 282</b>
 <br>2018.01.12: Finished.
 
