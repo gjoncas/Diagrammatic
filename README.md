@@ -48,6 +48,9 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 <b>Oden - <i>The Structure of Awareness</i> (1969)</b>
 <br>2018.03.09: Finished. &nbsp;[the structure of boredom]
 
+<b>Serres - <i>The Birth of Physics</i>, pp. 19 & 76</b>
+<br>2018.03.12: Finished.
+
 <b>Srnicek - Neoplatonism versus Nonphilosophy (<a href="http://speculativeheresy.files.wordpress.com/2010/03/neoplatonism-and-nonphilosophy.jpg">2010</a>)</b>
 <br>2018.02.24: Finished.
 
