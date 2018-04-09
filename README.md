@@ -27,6 +27,9 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 <b>Deleuze & Guattari - <i>Anti-Oedipus</i>, p. 282</b>
 <br>2018.01.12: Finished.
 
+<b>Foucault - <i>The Order of Things</i>, pp. 80 & 219</b>
+<br>2018.04.09: Finished.
+
 <b>Freud’s first & second topographies</b>
 <br>2018.01.28: Mostly done. Dotted lines are ugly.
 
