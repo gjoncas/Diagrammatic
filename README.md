@@ -45,6 +45,9 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 <b>Laing - <i>Knots</i> (1970)</b>
 <br>2018.01.29: Finished.
 
+<b>Lyotard - <i>Phenomenology</i> (1986), p. 115</b>
+<br>2018.04.10: Finished.
+
 <b>Matthews - “<a ref="https://www.newscientist.com/article/mg14719934-300-the-man-who-played-god-with-infinity/">The man who played God with infinity</a>” (1995)</b>
 <br>2018.01.22: Finished. &nbsp;[surreal numbers]
 
