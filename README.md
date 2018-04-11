@@ -45,6 +45,9 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 <b>Laing - <i>Knots</i> (1970)</b>
 <br>2018.01.29: Finished.
 
+<b>Lévi-Strauss - <i>The Savage Mind</i> (1962), p. 152</b>
+<br>2018.04.11: Finished.
+
 <b>Lyotard - <i>Phenomenology</i> (1986), p. 115</b>
 <br>2018.04.10: Finished.
 
