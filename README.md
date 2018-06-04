@@ -42,6 +42,9 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 <b>Jung - <i>Aion: Researches into the Phenomenology of the Self</i> (1959), pp. 257-60</b>
 <br>2018.02.11: Finished.
 
+<b>Kisiel - “Diagrammatic Approach to Heidegger’s Schematism of Existence” (<a href="https://www.pdcnet.org/philtoday/content/philtoday_1984_0028_0003_0229_0241">1984</a>), p. 241</b>
+<br>2018.06.04: Finished.
+
 <b>Laing - <i>Knots</i> (1970)</b>
 <br>2018.01.29: Finished.
 
@@ -51,7 +54,7 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 <b>Lyotard - <i>Phenomenology</i> (1986), p. 115</b>
 <br>2018.04.10: Finished.
 
-<b>Matthews - “<a ref="https://www.newscientist.com/article/mg14719934-300-the-man-who-played-god-with-infinity/">The man who played God with infinity</a>” (1995)</b>
+<b>Matthews - “The man who played God with infinity” (<a href="https://www.newscientist.com/article/mg14719934-300-the-man-who-played-god-with-infinity/">1995</a>)</b>
 <br>2018.01.22: Finished. &nbsp;[surreal numbers]
 
 <b>Oden - <i>The Structure of Awareness</i> (1969)</b>
