@@ -12,62 +12,117 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 ## Updates
 
-<b>Althusser - <i>Philosophy and the Spontaneous Philosophy of the Scientists</i>, p. 164</b>
+![althusser](/pics/althusser.png)
+<br><b>Althusser - <i>Philosophy and the Spontaneous Philosophy of the Scientists</i>, p. 164</b>
 <br>2018.03.07: Finished.
 
-<b>Badiou - <i>Conditions</i>, pp. 121, 197</b>
+&nbsp;
+
+![badiou1](/pics/badiou1.png)
+<br><b>Badiou - <i>Conditions</i>, pp. 121, 197</b>
 <br>2018.03.01: Finished.
 
-<b>Barthes - <i>S/Z</i>, pp. 27-9, 129</b>
+&nbsp;
+
+![barthes1](/pics/barthes1.png)
+<br><b>Barthes - <i>S/Z</i>, pp. 27-9, 129</b>
 <br>2018.02.18: Finished.
 
-<b>Deleuze & Guattari - <i>A Thousand Plateaus</i>, pp. 135 & 137</b>
+&nbsp;
+
+![deleuze spiral 2](/pics/deleuze%20spiral%202.png)
+<br><b>Deleuze & Guattari - <i>A Thousand Plateaus</i>, pp. 135 & 137</b>
 <br>2018.03.11 Finished.
 
-<b>Deleuze & Guattari - <i>Anti-Oedipus</i>, p. 282</b>
+&nbsp;
+
+![anti-oedipus1](/pics/anti-oedipus1.png)
+<br><b>Deleuze & Guattari - <i>Anti-Oedipus</i>, p. 282</b>
 <br>2018.01.12: Finished.
 
-<b>Foucault - <i>The Order of Things</i>, pp. 80 & 219</b>
+&nbsp;
+
+![foucault](/pics/foucault.png)
+<br><b>Foucault - <i>The Order of Things</i>, pp. 80 & 219</b>
 <br>2018.04.09: Finished.
 
-<b>Freud’s first & second topographies</b>
+&nbsp;
+
+![freud](/pics/freud.png)
+<br><b>Freud’s first & second topographies</b>
 <br>2018.01.28: Mostly done. Dotted lines are ugly.
 <br>2018.06.06: Fixed dotted lines.
 
-<b>Harman - <i>The Quadruple Object</i>, pp. 33, 48, 50, 78, 89, 107, 114-5</b>
+&nbsp;
+
+![harman](/pics/harman.png)
+<br><b>Harman - <i>The Quadruple Object</i>, pp. 33, 48, 50, 78, 89, 107, 114-5</b>
 <br>18.03.02: Mostly done. Broken line diagram is ugly.
 
-<b>Jameson - <i>Postmodernism, or, The Cultural Logic of Late Capitalism</i>, p. 10</b>
+&nbsp;
+
+![jameson](/pics/jameson.png)
+<br><b>Jameson - <i>Postmodernism, or, The Cultural Logic of Late Capitalism</i>, p. 10</b>
 <br>2018.01.28: Finished.
 
-<b>Jung - <i>Aion: Researches into the Phenomenology of the Self</i> (1959), pp. 257-60</b>
+&nbsp;
+
+![jung1](/pics/jung1.png)
+<br><b>Jung - <i>Aion: Researches into the Phenomenology of the Self</i> (1959), pp. 257-60</b>
 <br>2018.02.11: Finished.
 
-<b>Kisiel - “Diagrammatic Approach to Heidegger’s Schematism of Existence” (<a href="https://www.pdcnet.org/philtoday/content/philtoday_1984_0028_0003_0229_0241">1984</a>), p. 241</b>
+&nbsp;
+
+![kisiel](/pics/kisiel.png)
+<br><b>Kisiel - “Diagrammatic Approach to Heidegger’s Schematism of Existence” (<a href="https://www.pdcnet.org/philtoday/content/philtoday_1984_0028_0003_0229_0241">1984</a>), p. 241</b>
 <br>2018.06.04: Finished.
 
-<b>Laing - <i>Knots</i> (1970)</b>
+&nbsp;
+
+![laing](/pics/laing.png)
+<br><b>Laing - <i>Knots</i> (1970)</b>
 <br>2018.01.29: Finished.
 
-<b>Lévi-Strauss - <i>The Savage Mind</i> (1962), p. 152</b>
+&nbsp;
+
+![levi-strauss](/pics/levi-strauss.png)
+<br><b>Lévi-Strauss - <i>The Savage Mind</i> (1962), p. 152</b>
 <br>2018.04.11: Finished.
 
-<b>Lyotard - <i>Phenomenology</i> (1986), p. 115</b>
+&nbsp;
+
+![lyotard](/pics/lyotard.png)
+<br><b>Lyotard - <i>Phenomenology</i> (1986), p. 115</b>
 <br>2018.04.10: Finished.
 
-<b>Matthews - “The man who played God with infinity” (<a href="https://www.newscientist.com/article/mg14719934-300-the-man-who-played-god-with-infinity/">1995</a>)</b>
+&nbsp;
+
+![surreal numbers](/pics/surreal-numbers.png)
+<br><b>Matthews - “The man who played God with infinity” (<a href="https://www.newscientist.com/article/mg14719934-300-the-man-who-played-god-with-infinity/">1995</a>)</b>
 <br>2018.01.22: Finished. &nbsp;[surreal numbers]
 
-<b>Oden - <i>The Structure of Awareness</i> (1969)</b>
+&nbsp;
+
+![the structure of boredom](/pics/oden-boredom.png)
+<br><b>Oden - <i>The Structure of Awareness</i> (1969)</b>
 <br>2018.03.09: Finished. &nbsp;[the structure of boredom]
 
-<b>Serres - <i>The Birth of Physics</i>, pp. 19 & 76</b>
+&nbsp;
+
+![serres](/pics/serres.png)
+<br><b>Serres - <i>The Birth of Physics</i>, pp. 19 & 76</b>
 <br>2018.03.12: Finished.
 
-<b>Srnicek - Neoplatonism versus Nonphilosophy (<a href="http://speculativeheresy.files.wordpress.com/2010/03/neoplatonism-and-nonphilosophy.jpg">2010</a>)</b>
+&nbsp;
+
+![non-philosophy](/pics/srnicek.png)
+<br><b>Srnicek - Neoplatonism versus Nonphilosophy (<a href="http://speculativeheresy.files.wordpress.com/2010/03/neoplatonism-and-nonphilosophy.jpg">2010</a>)</b>
 <br>2018.02.24: Finished.
 
-<b>Žižek - <i>The Plague of Fantasies</i>, p. 223</b>
+&nbsp;
+
+![zizek](/pics/zizek.png)
+<br><b>Žižek - <i>The Plague of Fantasies</i>, p. 223</b>
 <br>2018.03.10: Finished.
 
 &nbsp;
