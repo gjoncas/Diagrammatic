@@ -32,13 +32,13 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 ![ccru spiral](/pics/ccru-spiral.png)
 <br><b>CCRU - <i>Abstract Culture: Digital Hyperstition</i>, p. ii</b>
-<br>2019.10.04 Not perfect, but good enough for now.
+<br>2019.10.04: Not perfect, but good enough for now.
 
 &nbsp;
 
 ![deleuze spiral 2](/pics/deleuze%20spiral%202.png)
 <br><b>Deleuze & Guattari - <i>A Thousand Plateaus</i>, pp. 135 & 137</b>
-<br>2018.03.11 Finished.
+<br>2018.03.11: Finished.
 
 &nbsp;
 
