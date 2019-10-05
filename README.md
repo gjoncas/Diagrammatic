@@ -103,6 +103,12 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 &nbsp;
 
+![negarestani](/pics/negarestani-trison.png)
+<br><b>Negarestani - <i>Cyclonopedia</i> (2008), p. 36</b>
+<br>2019.10.04: Finished.
+
+&nbsp;
+
 ![surreal numbers](/pics/surreal-numbers.png)
 <br><b>Matthews - “The man who played God with infinity” (<a href="https://www.newscientist.com/article/mg14719934-300-the-man-who-played-god-with-infinity/">1995</a>)</b>
 <br>2018.01.22: Finished. &nbsp;[surreal numbers]
