@@ -61,6 +61,12 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 &nbsp;
 
+![guattari-tensors](/pics/guattari-tensors.png)
+<br><b>Guattari - “Réhabilitation du symptôme” (<a href="https://www.revue-chimeres.fr/IMG/pdf/2._01-03-83_felix_guattari_rehabilitation_du_symptome.pdf">1983</a>.03.01)</b>
+<br>19.10.15: Finished. Page 60 of <i>Schizoanalytic Cartographies</i> has a version with more labels.
+
+&nbsp;
+
 ![harman](/pics/harman.png)
 <br><b>Harman - <i>The Quadruple Object</i>, pp. 33, 48, 50, 78, 89, 107, 114-5</b>
 <br>18.03.02: Mostly done. Broken line diagram is ugly.
