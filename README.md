@@ -12,6 +12,12 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 ## Updates
 
+![althusser](/pics/althusser-longtemps.png)
+<br><b>Althusser - <i>Philosophy of the Encounter</i>, cover photo</b>
+<br>2019.10.06: Finished.
+
+&nbsp;
+
 ![althusser](/pics/althusser.png)
 <br><b>Althusser - <i>Philosophy and the Spontaneous Philosophy of the Scientists</i>, p. 164</b>
 <br>2018.03.07: Finished.
