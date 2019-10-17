@@ -24,15 +24,21 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 &nbsp;
 
-![badiou1](/pics/badiou1.png)
+![badiou](/pics/badiou1.png)
 <br><b>Badiou - <i>Conditions</i>, pp. 121, 197</b>
 <br>2018.03.01: Finished.
 
 &nbsp;
 
-![barthes1](/pics/barthes1.png)
+![barthes](/pics/barthes1.png)
 <br><b>Barthes - <i>S/Z</i>, pp. 27-9, 129</b>
 <br>2018.02.18: Finished.
+
+&nbsp;
+
+![bergson](/pics/bergson.png)
+<br><b>Bergson - <i>Matter and Memory</i>, pp. 128, 211</b>
+<br>2018.10.16: Finished.
 
 &nbsp;
 
