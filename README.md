@@ -6,8 +6,6 @@ Here I use Ti𝑘Z to replicate various diagrams in philosophy. See also: <a hre
 If you have any ideas for improvements, just file an <a href="https://github.com/gjoncas/Diagrammatic/issues">issue</a> or pull request.
 <br>However, I’m <i>not</i> providing free tech support. For small changes, see <a href="https://en.wikibooks.org/wiki/LaTeX/PGF/TikZ">here</a> and <a href="http://mirror.ctan.org/graphics/pgf/base/doc/pgfmanual.pdf">here</a>.
 
-<b>To Do</b>: Badiou, Guattari, Heidegger, Lévi-Strauss, Negarestani, Zalamea, 中国哲学
-
 &nbsp;
 
 ## Updates
