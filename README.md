@@ -30,6 +30,12 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 &nbsp;
 
+![badiou](/pics/badiou%20there-is.png)
+<br><b>Badiou - lecture at Miguel Abreu Gallery (Nov 18, 2006)</b>
+<br>2019.10.16: Finished.
+
+&nbsp;
+
 ![barthes](/pics/barthes1.png)
 <br><b>Barthes - <i>S/Z</i>, pp. 27-9, 129</b>
 <br>2018.02.18: Finished.
