@@ -52,6 +52,12 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 &nbsp;
 
+![deleuze baroque](/pics/deleuze-fold.png)
+<br><b>Deleuze - <i>The Fold: Leibniz and the Baroque</i>, p. 5</b>
+<br>2019.10.19: Finished. (Note: drapes are random, will change if file is re-compiled)
+
+&nbsp;
+
 ![deleuze spiral 2](/pics/deleuze%20spiral%202.png)
 <br><b>Deleuze & Guattari - <i>A Thousand Plateaus</i>, pp. 135 & 137</b>
 <br>2018.03.11: Finished.
