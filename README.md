@@ -155,6 +155,12 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 &nbsp;
 
+![spinoza universe](/pics/spinoza's%20universe.png)
+<br><b>“Spinoza’s universe,” from Lord, B. (2010). <i>Spinoza’s Ethics</i>. Edinburgh: Edinburgh University Press, p. 41</b>
+<br>2019.10.24: Finished.
+
+&nbsp;
+
 ![non-philosophy](/pics/srnicek.png)
 <br><b>Srnicek - Neoplatonism versus Nonphilosophy (<a href="http://speculativeheresy.files.wordpress.com/2010/03/neoplatonism-and-nonphilosophy.jpg">2010</a>)</b>
 <br>2018.02.24: Finished.
