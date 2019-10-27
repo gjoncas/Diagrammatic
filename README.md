@@ -167,6 +167,12 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 &nbsp;
 
+![social-dynamic](/pics/social%20in%20a%20dynamic%20diagram.png)
+<br><b>“The social in a dynamic diagram,” from Albertsen, N. & Diken, B. (2006). “Society with/out organs,” in Fuglsang, M. & Sørensen, B. (2006). <i>Deleuze and the Social</i>. Edinburgh: Edinburgh University Press, p. 239</b>
+<br>2019.10.25: Finished.
+
+&nbsp;
+
 ![zizek](/pics/zizek.png)
 <br><b>Žižek - <i>The Plague of Fantasies</i>, p. 223</b>
 <br>2018.03.10: Finished.
