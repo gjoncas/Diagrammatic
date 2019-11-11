@@ -179,6 +179,12 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 &nbsp;
 
+![subjectivity](/pics/subjectivity.png)
+<br><b>unknown source; axes & outer labels printed on paper, vortex & lines of flight written in pen</b>
+<br>2018.10.18: Finished.
+
+&nbsp;
+
 ![zizek](/pics/zizek.png)
 <br><b>Žižek - <i>The Plague of Fantasies</i>, p. 223</b>
 <br>2018.03.10: Finished.
