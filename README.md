@@ -95,6 +95,12 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 &nbsp;
 
+![guattari-signifiance](/pics/guattari-signifiance.png)
+<br><b>Guattari - <i>The Machinic Unconscious</i> (<a href="https://hamtramckfreeschool.files.wordpress.com/2015/09/felix-guattari-the-machinic-unconscious-essays-in-schizoanalysis-1.pdf">2011</a>), p. 208</b>
+<br>20.03.28: Finished. (Note: An experiment with automatically adjustable nodes/curves.)
+
+&nbsp;
+
 ![harman](/pics/harman.png)
 <br><b>Harman - <i>The Quadruple Object</i>, pp. 33, 48, 50, 78, 89, 107, 114-5</b>
 <br>18.03.02: Mostly done. Broken line diagram is ugly.
