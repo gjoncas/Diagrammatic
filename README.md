@@ -89,6 +89,12 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 &nbsp;
 
+![guattari-drive](/pics/guattari-drive.png)
+<br><b>Guattari - “Drive, Black Hole” (<a href="https://fractalontology.wordpress.com/2020/07/22/new-translation-of-guattaris-seminar-drive-black-hole/">1981</a>.02.10)</b>
+<br>20.07.22: Finished.
+
+&nbsp;
+
 ![guattari-tensors](/pics/guattari-tensors.png)
 <br><b>Guattari - “Réhabilitation du symptôme” (<a href="https://www.revue-chimeres.fr/IMG/pdf/2._01-03-83_felix_guattari_rehabilitation_du_symptome.pdf">1983</a>.03.01)</b>
 <br>19.10.15: Finished. Page 60 of <i>Schizoanalytic Cartographies</i> has a version with more labels.
