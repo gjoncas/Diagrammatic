@@ -149,6 +149,12 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 &nbsp;
 
+![proclus](/pics/proclus.png)
+<br><b>T.M. Johnson - <i>Proclus’ Metaphysical Elements</i> (<a href="https://archive.org/details/metaphysicalelem00procuoft">1909</a>), p. 198</b>
+<br>2020.07.23: Finished.
+
+&nbsp;
+
 ![surreal numbers](/pics/surreal-numbers.png)
 <br><b>Matthews - “The man who played God with infinity” (<a href="https://www.newscientist.com/article/mg14719934-300-the-man-who-played-god-with-infinity/">1995</a>)</b>
 <br>2018.01.22: Finished. &nbsp;[surreal numbers]
