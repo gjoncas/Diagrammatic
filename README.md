@@ -137,6 +137,12 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 &nbsp;
 
+![laruelle-decision](/pics/laruelle-decision.png)
+<br><b>Laruelle’s concept of philosophical decision (source unknown)</b>
+<br>2020.07.24: Finished.
+
+&nbsp;
+
 ![levi-strauss](/pics/levi-strauss.png)
 <br><b>Lévi-Strauss - <i>The Savage Mind</i> (1962), p. 152</b>
 <br>2018.04.11: Finished.
