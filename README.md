@@ -155,6 +155,12 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 &nbsp;
 
+![mullarkey-bergson](/pics/mullarkey-bergson.png)
+<br><b>Mullarkey - <i>Post-Continental Philosophy</i> (2006), p. 178</b>
+<br>2020.07.25: Finished. [diploid structure of Bergson’s philosophy]
+
+&nbsp;
+
 ![negarestani](/pics/negarestani-trison.png)
 <br><b>Negarestani - <i>Cyclonopedia</i> (2008), p. 36</b>
 <br>2019.10.04: Finished.
