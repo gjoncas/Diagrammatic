@@ -76,6 +76,12 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 &nbsp;
 
+![fazang](/pics/fazang-suchness.png)
+<br><b>Lai - “The Yijing and the formation of the Huayan Philosophy” (<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6253.2009.01555.x">2009</a>), p. 108</b>
+<br>2020.07.25: Finished.
+
+&nbsp;
+
 ![foucault](/pics/foucault.png)
 <br><b>Foucault - <i>The Order of Things</i>, pp. 80 & 219</b>
 <br>2018.04.09: Finished.
