@@ -173,6 +173,12 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 &nbsp;
 
+![plotinus](/pics/plotinus-cone.png)
+<br><b>von Duuglas-Ittu - “The Cone of Plotinus: Ontologies of Profusion and Particularization” (<a href="https://kvond.wordpress.com/2009/04/24/the-cone-of-plotinus-ontologies-of-profusion-and-particularization/">2009</a>)</b>
+<br>2020.08.07: Finished.
+
+&nbsp;
+
 ![proclus](/pics/proclus.png)
 <br><b>T.M. Johnson - <i>Proclus’ Metaphysical Elements</i> (<a href="https://archive.org/details/metaphysicalelem00procuoft">1909</a>), p. 198</b>
 <br>2020.07.23: Finished.
