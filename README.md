@@ -131,6 +131,12 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 &nbsp;
 
+![jung-quaternities](/pics/jung-quaternities.png)
+<br><b>Sketch by Jung on a manila envelope (1948), in Stein - <i>Becoming Whole: Jung’s Equation for Realizing God</i> (2012)</b>
+<br>2020.08.20: Finished.
+
+&nbsp;
+
 ![kisiel](/pics/kisiel.png)
 <br><b>Kisiel - “Diagrammatic Approach to Heidegger’s Schematism of Existence” (<a href="https://www.pdcnet.org/philtoday/content/philtoday_1984_0028_0003_0229_0241">1984</a>), p. 241</b>
 <br>2018.06.04: Finished.
