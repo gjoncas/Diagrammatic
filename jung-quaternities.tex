@@ -1,0 +1,89 @@
+\documentclass[border={0.1cm 0.1cm 0.1cm 0.1cm}]{standalone}  %E,S,W,N
+%\documentclass{scrartcl}
+
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{wasysym}	%for male & female symbols
+\usepackage{tikz}
+\usetikzlibrary{shapes} %for node shapes
+\usetikzlibrary{calc}	%for centerarc
+
+\begin{document}
+	
+	\begin{tikzpicture}[very thick]	
+	\def\s{10}		\def\d{0.75}
+	%\draw[thick,->,>=stealth] (0,0)--(0,0);
+	%\centerarc[](0,0)(0:90:1)
+	
+	%TOP
+	\draw (-0.5*\s,0)--(0.5*\s,0)--(0,{0.5*sqrt(3)*\s})--cycle;
+	\draw (0.25*\s,{0.25*sqrt(3)*\s})--(0,0)--(-0.25*\s,{0.25*sqrt(3)*\s});
+	%
+	\draw (-0.125*\s,{0.125*sqrt(3)*\s})--(0,{0.25*sqrt(3)*\s})--(0.125*\s,{0.125*sqrt(3)*\s})--cycle;
+	\draw (-0.125*\s,{0.125*sqrt(3)*\s})--(-0.125*\s,{0.125*sqrt(3)*\s+\d})-- (0,{0.25*sqrt(3)*\s})--(0.125*\s,{0.125*sqrt(3)*\s+\d})--(0.125*\s,{0.125*sqrt(3)*\s});
+	\draw[dashed] (-0.125*\s,{0.125*sqrt(3)*\s+\d})--(0.125*\s,{0.125*sqrt(3)*\s+\d})--(0,0)--cycle;
+	%
+	\draw (-0.125*\s,{0.375*sqrt(3)*\s})--(0,{0.25*sqrt(3)*\s})--(0.125*\s,{0.375*sqrt(3)*\s});
+	\draw (-0.125*\s,{0.375*sqrt(3)*\s})--(-0.125*\s+\d,{0.375*sqrt(3)*\s-0.5*\d})--(0.125*\s,{0.375*sqrt(3)*\s});
+	\draw[dashed] (0.125*\s,{0.375*sqrt(3)*\s})--(0.125*\s-\d,{0.375*sqrt(3)*\s+0.5*\d})--(-0.125*\s,{0.375*sqrt(3)*\s});
+	\draw (0,{0.25*sqrt(3)*\s})--(-0.125*\s+\d,{0.375*sqrt(3)*\s-0.5*\d})--(0,{0.5*sqrt(3)*\s});
+	\draw[dashed] (0,{0.25*sqrt(3)*\s})--(0.125*\s-\d,{0.375*sqrt(3)*\s+0.5*\d})--(0,{0.5*sqrt(3)*\s});
+	
+	%BOTTOM
+	\draw (-0.5*\s,0)--(0,{-0.5*sqrt(3)*\s})--(0.5*\s,0);
+	\draw (-0.25*\s,{-0.25*sqrt(3)*\s})--(0,0)--(0.25*\s,{-0.25*sqrt(3)*\s});
+	%
+	\draw (-0.125*\s,{0.125*sqrt(3)*\s})--(-0.125*\s,{0.125*sqrt(3)*\s+\d})-- (0,{0.25*sqrt(3)*\s})--(0.125*\s,{0.125*sqrt(3)*\s+\d})--(0.125*\s,{0.125*sqrt(3)*\s});
+	\draw[dashed] (-0.125*\s,{0.125*sqrt(3)*\s+\d})--(0.125*\s,{0.125*sqrt(3)*\s+\d})--(0,0)--cycle;
+	%
+	\draw (-0.125*\s,{-0.125*sqrt(3)*\s})--(0,{-0.25*sqrt(3)*\s})--(0.125*\s,{-0.125*sqrt(3)*\s})--cycle;
+	\draw (-0.125*\s,{-0.125*sqrt(3)*\s})--(-0.125*\s,{-0.125*sqrt(3)*\s-\d})-- (0,{-0.25*sqrt(3)*\s})--(0.125*\s,{-0.125*sqrt(3)*\s-\d})--(0.125*\s,{-0.125*sqrt(3)*\s});
+	\draw[dashed] (-0.125*\s,{-0.125*sqrt(3)*\s-\d})--(0.125*\s,{-0.125*sqrt(3)*\s-\d})--(0,0)--cycle;
+	%
+	\draw[yshift={-0.5*sqrt(3)*\s cm}] (-0.125*\s,{0.125*sqrt(3)*\s})--(0,{0.25*sqrt(3)*\s})--(0.125*\s,{0.125*sqrt(3)*\s})--cycle;
+	\draw[yshift={-0.5*sqrt(3)*\s cm}] (-0.125*\s,{0.125*sqrt(3)*\s})--(-0.125*\s,{0.125*sqrt(3)*\s+\d})-- (0,{0.25*sqrt(3)*\s})--(0.125*\s,{0.125*sqrt(3)*\s+\d})--(0.125*\s,{0.125*sqrt(3)*\s});
+	\draw[dashed,yshift={-0.5*sqrt(3)*\s cm}] (-0.125*\s,{0.125*sqrt(3)*\s+\d})--(0.125*\s,{0.125*sqrt(3)*\s+\d})--(0,0)--cycle;
+	
+	%TOP LABELS
+	\node[align=right,left] at (-0.5*\s,0) {Devil};
+	\node[align=left,right] at (0.5*\s,0) {XP$\,$(Christ)};
+	\node[fill=white,inner sep=0.3] at (0,0) {Serpent};
+	\node[align=right,left] at (-0.125*\s,{0.125*sqrt(3)*\s}) {$-$Moses};
+	\node[align=left,right] at (0.125*\s,{0.125*sqrt(3)*\s}) {Dark Woman};
+	\node[align=right,left,fill=white,inner sep=0.1] at (-0.125*\s-0.1,{0.125*sqrt(3)*\s+\d}) {$-$Jethro};
+	\node[align=left,right,fill=white,inner sep=0.1] at (0.125*\s,{0.125*sqrt(3)*\s+\d}) {Woman with leprosy};
+	\node[align=right,left] at (-0.25*\s,{0.25*sqrt(3)*\s}) {Matter};
+	\node[align=left,right] at (0.25*\s,{0.25*sqrt(3)*\s}) {Mind$\,$(Spirit)};
+	\node at (0,{0.25*sqrt(3)*\s}) {Lower$\;\;$Adam};
+	\node[align=right,left] at (-0.125*\s,{0.375*sqrt(3)*\s}) {$+$Jethro};
+	\node[align=left,right] at (0.125*\s,{0.375*sqrt(3)*\s}) {Zipporah};
+	\node[below,fill=white,inner sep=1.5] at (0,{0.375*sqrt(3)*\s-0.5*\d}) {Moses};
+	\node[above right,fill=white,inner sep=2] at (0.125*\s-\d,{0.375*sqrt(3)*\s+0.5*\d}) {Miriam};
+	\node[above] at (0,{0.5*sqrt(3)*\s}) {\bfseries Higher$\,$Adam};
+	\node at (0,{0.5*sqrt(3)*\s+1}) {\large Formlessness};
+	
+	%BOTTOM LABELS
+	\node[align=right,left] at (-0.125*\s,{-0.125*sqrt(3)*\s}) {Pison};
+	\node[align=left,right] at (0.125*\s,{-0.125*sqrt(3)*\s}) {Gihon};
+	\node[align=right,left,fill=white,inner sep=1] at (-0.125*\s-0.1,{-0.125*sqrt(3)*\s-\d}) {Hiddihel};
+	\node[align=left,right,fill=white,inner sep=2] at (0.125*\s,{-0.125*sqrt(3)*\s-\d}) {Euphrates = Logos};
+	\node at (0,{-0.125*sqrt(3)*\s-0.5*\d}) {Paradise};
+	\node[align=right,left] at (-0.25*\s,{-0.25*sqrt(3)*\s}) {\Large \venus};
+	\node[align=left,right] at (0.25*\s,{-0.25*sqrt(3)*\s}) {\Large \mars};
+	\node at (1.25,{-0.25*sqrt(3)*\s}) {\bfseries Stone};
+	\draw[<-,>=stealth] (-0.15,{-0.25*sqrt(3)*\s})--++(-2.5,-0.75) node[align=right,left,yshift=-0.15cm] {\bfseries Hermaphrodite};
+	%
+	\node[align=right,left,fill=white,inner sep=1] at (-0.125*\s-0.1,{-0.375*sqrt(3)*\s+\d}) {Earth};
+	\node[align=right,left] at (-0.125*\s,{-0.375*sqrt(3)*\s}) {Water};
+	\node[align=left,right] at (0.125*\s,{-0.375*sqrt(3)*\s}) {Air};
+	\node[align=left,right,fill=white,inner sep=1] at (0.125*\s+0.1,{-0.375*sqrt(3)*\s+\d}) {Fire};
+	
+	\node[below] at (0,{-0.5*sqrt(3)*\s}) {\bfseries Sphere};
+	\node at (0,{-0.5*sqrt(3)*\s-1}) {\bfseries Chaos};
+	\node at (0,{-0.5*sqrt(3)*\s-1.75}) {\large Formlessness};
+	\node at (0,0) {};
+	
+	%\draw[help lines] (-5,-5) grid (5,5);
+	\end{tikzpicture}
+	
+\end{document}
