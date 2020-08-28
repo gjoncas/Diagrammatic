@@ -95,6 +95,12 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 &nbsp;
 
+![guattari-assemblage](/pics/guattari-assemblage.png)
+<br><b>Guattari - “The Formations of the Core of an Assemblage” (<a href="https://www.revue-chimeres.fr/IMG/pdf/820126.pdf">1982</a>.01.26)</b>
+<br>20.08.28: Finished.
+
+&nbsp;
+
 ![guattari-drive](/pics/guattari-drive.png)
 <br><b>Guattari - “Drive, Black Hole” (<a href="https://fractalontology.wordpress.com/2020/07/22/new-translation-of-guattaris-seminar-drive-black-hole/">1981</a>.02.10)</b>
 <br>20.07.22: Finished.
