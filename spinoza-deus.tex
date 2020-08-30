@@ -1,0 +1,51 @@
+\documentclass[border={0.1cm 0.1cm 0.1cm 0.1cm}]{standalone}  %E,S,W,N
+
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{tikz}
+
+\begin{document}
+	
+	\begin{tikzpicture}[thick]
+	\node at (0,0.35) {\LARGE SUBSTANCE};
+	\node[align=center] at (-4,-0.25) {Unknown \\ Attributes};
+	\node[align=center] at (3.9,-0.25) {Unknown \\ Attributes};
+	
+	%\draw (0,0) circle (0.5cm);
+	\foreach \i in {1,...,5}{
+		\draw ({0.5*cos(270-30-9*\i)},{0.5*sin(270-30-9*\i)}) -- ({4*cos(270-30-9*\i)},{4*sin(270-30-9*\i)});
+		\draw ({0.5*cos(270+30+9*\i)},{0.5*sin(270+30+9*\i)}) -- ({4*cos(270+30+9*\i)},{4*sin(270+30+9*\i)});
+	}
+	\draw ({0.5*cos(270-30)},{0.5*sin(270-30)}) -- ({5*cos(270-30)},{5*sin(270-30)});
+	\draw ({0.5*cos(270+30)},{0.5*sin(270+30)}) -- ({5*cos(270+30)},{5*sin(270+30)});
+	
+	\node at (-5.25,-1.75) {\scshape\Large attributes};
+	\node at ( 5.25,-1.75) {\scshape\Large attributes};
+	
+	\node[align=right,above left] at ({4.75*cos(270-30)},{4.75*sin(270+30)+0.5}) {\scshape\Large extension};
+	\node[align=left,above right] at ({4.75*cos(270+30)},{4.75*sin(270+30)+0.5}) {\scshape\Large thought};
+	\draw[dashed] ({4.75*cos(270-30)-0.3},{4.75*sin(270-30)+0.5})--++(0,-1) node[align=center,below] {Motion \\ and Rest};
+	\draw[dashed] ({4.75*cos(270+30)+0.3},{4.75*sin(270+30)+0.5})--++(0,-1) node[align=center,below] {Infinite \\ Intellect};
+	
+	\node[align=right,left] at (-3,-6) {Immediate};	\node[align=left,right] at (3,-6) {Immediate};
+	\node at (-5.25,-7) {\scshape\Large modes};		\node at (5.25,-7) {\scshape\Large modes};
+	\node[align=right,left] at (-3,-7.8) {Mediate};	\node[align=left,right] at (3,-7.8) {Mediate};
+	
+	\node[align=center] at (0,-2.75)  {\Large NATURA \\[1mm] \Large NATURANS};
+	\node[align=center] at (0,-9.5) {\Large NATURA \\[1mm] \Large NATURATA};
+	\node at (0,-6) {\rotatebox{90}{\huge D$\;$E$\;$U$\;$S}};
+	
+	\draw ({4.75*cos(270-30)-0.3},{4.75*sin(270-30)-1.5})--++(0,-2.5) node[align=center,below] {Material \\ Universe};
+	\draw ({4.75*cos(270+30)+0.3},{4.75*sin(270+30)-1.5})--++(0,-2.5) node[align=center,below] {Infinite \\ Idea of God};
+	
+	\foreach \i in {0,...,5}{
+		\draw ({4.75*cos(270-30)-0.3},{4.75*sin(270-30)-5-0.2*\i})--(0,-11.25-0.5*\i)-- ({4.75*cos(270+30)+0.3},{4.75*sin(270+30)-5-0.2*\i});
+		\filldraw[fill=white] (0,-11.25-0.5*\i) circle (0.15cm);
+		\fill (0,-11.25-0.5*\i)--++(0,0.15) arc (90:270:0.15) --cycle;
+	}
+	
+	%\node[align=center] at (-0.45,-13) {\scshape\Large individual \hspace{1.5cm} things};
+	\node[align=center] at (-0.45,-13.5) {\scshape\Large individual \hspace{0.5cm} things};
+	\end{tikzpicture}
+	
+\end{document}
