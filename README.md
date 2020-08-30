@@ -107,6 +107,12 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 &nbsp;
 
+![guattari-efficiency](/pics/guattari-efficiency.png)
+<br><b>Guattari - “On Semiotic Efficiency” (<a href="https://www.revue-chimeres.fr/IMG/pdf/820504.pdf">1982</a>.05.04)</b>
+<br>20.08.29: Finished.
+
+&nbsp;
+
 ![guattari-tensors](/pics/guattari-tensors.png)
 <br><b>Guattari - “Réhabilitation du symptôme” (<a href="https://www.revue-chimeres.fr/IMG/pdf/2._01-03-83_felix_guattari_rehabilitation_du_symptome.pdf">1983</a>.03.01)</b>
 <br>19.10.15: Finished. Page 60 of <i>Schizoanalytic Cartographies</i> has a version with more labels.
