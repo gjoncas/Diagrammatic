@@ -221,6 +221,12 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 &nbsp;
 
+![spinoza's metaphysics](/pics/spinoza-deus.png)
+<br><b>“Diagram Illustrating Spinoza’s Metaphysical System,” from Jacobs, J. - “Spinoza, Baruch,” in <i>The Jewish Encyclopedia</i> (<a href="http://www.jewishencyclopedia.com/articles/13964-spinoza-baruch-benedict-de-spinoza">1906</a>)</b>
+<br>2020.08.25: Finished.
+
+&nbsp;
+
 ![spinoza universe](/pics/spinoza's%20universe.png)
 <br><b>“Spinoza’s universe,” from Lord, B. (2010). <i>Spinoza’s Ethics</i>. Edinburgh: Edinburgh University Press, p. 41</b>
 <br>2019.10.24: Finished.
