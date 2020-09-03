@@ -97,37 +97,43 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 ![guattari-assemblage](/pics/guattari-assemblage.png)
 <br><b>Guattari - “The Formations of the Core of an Assemblage” (<a href="https://www.revue-chimeres.fr/IMG/pdf/820126.pdf">1982</a>.01.26)</b>
-<br>20.08.28: Finished.
+<br>2020.08.28: Finished.
 
 &nbsp;
 
 ![guattari-drive](/pics/guattari-drive.png)
 <br><b>Guattari - “Drive, Black Hole” (<a href="https://fractalontology.wordpress.com/2020/07/22/new-translation-of-guattaris-seminar-drive-black-hole/">1981</a>.02.10)</b>
-<br>20.07.22: Finished.
+<br>2020.07.22: Finished.
 
 &nbsp;
 
 ![guattari-efficiency](/pics/guattari-efficiency.png)
 <br><b>Guattari - “On Semiotic Efficiency” (<a href="https://www.revue-chimeres.fr/IMG/pdf/820504.pdf">1982</a>.05.04)</b>
-<br>20.08.29: Finished.
+<br>2020.08.29: Finished.
+
+&nbsp;
+
+![guattari-synapses](/pics/guattari-synapses.png)
+<br><b>Guattari - “Flow. Synapses. Components of Passage” (<a href="https://www.revue-chimeres.fr/IMG/pdf/820216.pdf">1982</a>.02.16)</b>
+<br>2020.08.29: Finished.
 
 &nbsp;
 
 ![guattari-tensors](/pics/guattari-tensors.png)
 <br><b>Guattari - “Réhabilitation du symptôme” (<a href="https://www.revue-chimeres.fr/IMG/pdf/2._01-03-83_felix_guattari_rehabilitation_du_symptome.pdf">1983</a>.03.01)</b>
-<br>19.10.15: Finished. Page 60 of <i>Schizoanalytic Cartographies</i> has a version with more labels.
+<br>2019.10.15: Finished. Page 60 of <i>Schizoanalytic Cartographies</i> has a version with more labels.
 
 &nbsp;
 
 ![guattari-signifiance](/pics/guattari-signifiance.png)
 <br><b>Guattari - <i>The Machinic Unconscious</i> (<a href="https://hamtramckfreeschool.files.wordpress.com/2015/09/felix-guattari-the-machinic-unconscious-essays-in-schizoanalysis-1.pdf">2011</a>), p. 208</b>
-<br>20.03.28: Finished. (Note: An experiment with automatically adjustable nodes/curves.)
+<br>2020.03.28: Finished. (Note: An experiment with automatically adjustable nodes/curves.)
 
 &nbsp;
 
 ![harman](/pics/harman.png)
 <br><b>Harman - <i>The Quadruple Object</i>, pp. 33, 48, 50, 78, 89, 107, 114-5</b>
-<br>18.03.02: Mostly done. Broken line diagram is ugly.
+<br>2018.03.02: Mostly done. Broken line diagram is ugly.
 
 &nbsp;
 
