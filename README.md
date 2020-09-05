@@ -34,6 +34,12 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 
 &nbsp;
 
+![bardini-junk-dna](/pics/bardini-junk.png)
+<br><b>Bardini - <i>Junkware</i> (2011), p. 17: “Semiotic Square of Junk DNA”</b>
+<br>2020.08.25: Finished.
+
+&nbsp;
+
 ![barthes](/pics/barthes1.png)
 <br><b>Barthes - <i>S/Z</i>, pp. 27-9, 129</b>
 <br>2018.02.18: Finished.
