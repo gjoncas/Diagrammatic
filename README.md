@@ -2,9 +2,9 @@
 
 Here I use Ti𝑘Z to replicate various diagrams in philosophy. See also: <a href="https://github.com/gjoncas/Lacan-Mathemes">Lacanian mathemes</a>.
 <br>Anyone using LaTeX can copy & paste this code into their papers to display the diagrams.
+<br>For an introduction to Ti𝑘Z, see <a href="https://en.wikibooks.org/wiki/LaTeX/PGF/TikZ">here</a> and <a href="http://mirror.ctan.org/graphics/pgf/base/doc/pgfmanual.pdf">here</a>. To install LaTeX, try <a href="https://miktex.org/download">here</a> and <a href="https://www.texstudio.org">here</a>.
 
-If you have any ideas for improvements, just file an <a href="https://github.com/gjoncas/Diagrammatic/issues">issue</a> or pull request.
-<br>However, I’m <i>not</i> providing free tech support. For small changes, see <a href="https://en.wikibooks.org/wiki/LaTeX/PGF/TikZ">here</a> and <a href="http://mirror.ctan.org/graphics/pgf/base/doc/pgfmanual.pdf">here</a>.
+I have separate repositories for <a href="https://github.com/gjoncas/Econ-Diagrams">economics</a>, <a href="https://github.com/gjoncas/Lacan-Mathemes">psychoanalysis</a>, <a href="https://github.com/gjoncas/CS-Diagrams">computer science</a>, and <a href="https://github.com/gjoncas/Artsy-Diagrams">artistic</a> diagrams.
 
 &nbsp;
 
@@ -19,6 +19,12 @@ If you have any ideas for improvements, just file an <a href="https://github.com
 ![althusser](/pics/althusser.png)
 <br><b>Althusser - <i>Philosophy and the Spontaneous Philosophy of the Scientists</i>, p. 164</b>
 <br>2018.03.07: Finished.
+
+![arendt](/pics/arendt-dialectic.png)
+<br><b>Arendt - <i>The Life of the Mind</i> (1981), vol. II, p. 49</b>
+<br>2020.10.01: Finished.
+
+&nbsp;
 
 &nbsp;
 
