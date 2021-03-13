@@ -20,11 +20,11 @@ I have separate repositories for <a href="https://github.com/gjoncas/Econ-Diagra
 <br><b>Althusser - <i>Philosophy and the Spontaneous Philosophy of the Scientists</i>, p. 164</b>
 <br>2018.03.07: Finished.
 
+&nbsp;
+
 ![arendt](/pics/arendt-dialectic.png)
 <br><b>Arendt - <i>The Life of the Mind</i> (1981), vol. II, p. 49</b>
 <br>2020.10.01: Finished.
-
-&nbsp;
 
 &nbsp;
 
@@ -254,6 +254,12 @@ I have separate repositories for <a href="https://github.com/gjoncas/Econ-Diagra
 ![non-philosophy](/pics/srnicek.png)
 <br><b>Srnicek - Neoplatonism versus Nonphilosophy (<a href="http://speculativeheresy.files.wordpress.com/2010/03/neoplatonism-and-nonphilosophy.jpg">2010</a>)</b>
 <br>2018.02.24: Finished.
+
+&nbsp;
+
+![good-evil](/pics/schopenhauer-good-evil.png)
+<br><b>Schopenhauer - <i>The World as Will and Representation</i></b>
+<br>2021.03.08: Finished.
 
 &nbsp;
 
