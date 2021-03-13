@@ -1,0 +1,71 @@
+\documentclass[border={0.1cm 0.1cm 0.1cm 0.1cm}]{standalone}  %E,S,W,N
+
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usetikzlibrary{decorations.pathreplacing}	%for brackets
+
+%translation via Lemanski & Moktefi - Making Sense of Schopenhauer’s Diagram of Good and Evil (2018)
+%https://link.springer.com/chapter/10.1007/978-3-319-91376-6_67
+
+\begin{document}
+	
+	\begin{tikzpicture}[semithick]
+	%ARCS
+	\draw (-5.65,-5.05) arc (-49:36:2.75cm) arc (-79:82:2cm);
+	\draw (1.73,-4.78) arc (164:100:4.25) arc (239:172:3.75);
+	
+	%CIRCLES - TOPMOST ROW
+	\node at (-5.65,2.25) {\scriptsize Good};
+	\draw (-4.55,1.55) circle (0.575cm) node {\scalebox{0.45}{useful}};
+	\draw (-3.95,2.07) circle (0.575cm) node[align=center] {\scalebox{0.45}{enrich-} \\[-2.5mm] \scalebox{0.45}{ing}};
+	\draw (-3.05,2.1) circle (0.575cm) node[align=center] {\scalebox{0.45}{profit-} \\[-2.5mm] \scalebox{0.45}{able}};
+	\draw (-2.18,2.1) circle (0.575cm) node[align=center,xshift=0.3mm] {\scalebox{0.4}{promoting} \\[-1.75mm] \scalebox{0.43}{business}};
+	\draw (-1.23,2.13) circle (0.575cm) node[align=center,xshift=-0.1mm] {\scalebox{0.45}{rendering} \\[-2.5mm] \scalebox{0.45}{fit for} \\[-2.5mm] \scalebox{0.42}{everything}};
+	\draw (-0.31,2.02) circle (0.575cm) node[align=center] {\scalebox{0.45}{invigor-} \\[-2.5mm] \scalebox{0.45}{ating}};
+	\draw (-0.04,1.19) circle (0.575cm) node {\scalebox{0.45}{healthy}};
+	
+	%CIRCLES - SECOND ROW
+	\draw (-3.3,0.02) circle (0.575cm) node {\scalebox{0.45}{pleasant}};
+	\draw (-2.29,0.02) circle (0.575cm) node[align=center] {\scalebox{0.45}{exhilar-} \\[-2.5mm] \scalebox{0.45}{ating}};
+	\draw (-1.25,0) circle (0.575cm) node[align=center] {\scalebox{0.45}{dispelling} \\[-2.5mm] \scalebox{0.45}{boredom}};
+	\draw (0,0) circle (0.85cm) node[yshift=1.5mm,xshift=-0.2mm] {\footnotesize Travelling}; %middle
+	%curly brace
+	\draw[decorate,decoration={brace,amplitude=5pt}] (0.5,-0.05)--(-0.5,-0.05);
+	\draw (1.23,0) circle (0.575cm) node {\scalebox{0.45}{expensive}};
+	\draw (2.16,0.03) circle (0.575cm) node[align=center] {\scalebox{0.45}{causing} \\[-2.5mm] \scalebox{0.45}{losses}};
+	\draw (3.1,0) circle (0.575cm) node[align=center] {\scalebox{0.45}{cause of} \\[-2.5mm] \scalebox{0.45}{becoming} \\[-2.5mm] \scalebox{0.45}{poor}};
+	\node at (4.05,0.4) {\scriptsize Evil};
+	
+	%CIRCLES - THIRD ROW
+	\node at (-5.25,-1) {\scriptsize Good};
+	\draw (-4.55,-1.77) circle (0.575cm) node[align=center,xshift=-0.8mm] {\scalebox{0.42}{producing} \\[-2.5mm] \scalebox{0.45}{peace of} \\[-2.5mm] \scalebox{0.45}{mind}};
+	\draw (-3.82,-1.24) circle (0.575cm) node[align=center,yshift=0.2mm] {\scalebox{0.45}{calming} \\[-2.5mm] \scalebox{0.45}{vain} \\[-2.5mm] \scalebox{0.45}{desires}};
+	\draw (-3.02,-1.7) circle (0.575cm) node[align=center] {\scalebox{0.42}{enhan-} \\[-2.5mm] \scalebox{0.42}{cing} \\[-2.5mm] \scalebox{0.42}{love of} \\[-2.5mm] \scalebox{0.42}{science \&} \\[-2.5mm] \scalebox{0.42}{literature}};
+	\draw (-2.23,-1.41) circle (0.575cm) node[align=center,yshift=2mm] {\scalebox{0.42}{widening} \\[-2.5mm] \scalebox{0.42}{knowledge}};
+	\draw (-1.28,-1.75) circle (0.685cm) node[align=center] {\scalebox{0.45}{increasing} \\[-2.5mm] \scalebox{0.45}{knowledge}};
+	\draw (-0.02,-1.38) circle (0.82cm) node[align=center] {\scalebox{0.45}{Ample} \\[-2.5mm] \scalebox{0.45}{opportunity}\\[-2.5mm] \scalebox{0.45}{for storing} \\[-2.5mm] \scalebox{0.45}{experience}};
+	\draw (1.14,-1.41) circle (0.575cm) node[align=center] {\scalebox{0.45}{increasing} \\[-2.5mm] \scalebox{0.4}{knowledge} \\[-2.5mm] \scalebox{0.45}{of} \\[-2.5mm] \scalebox{0.45}{pleasures}};
+	\draw (2.05,-1.39) circle (0.575cm) node[align=center,xshift=0.1mm] {\scalebox{0.42}{increasing} \\[-2.5mm] \scalebox{0.42}{desires}};
+	\draw (3,-1.34) circle (0.575cm) node[align=center] {\scalebox{0.45}{increasing} \\[-2.5mm] \scalebox{0.45}{sensual} \\[-2.5mm] \scalebox{0.45}{appetites}};
+	\draw (3.92,-1.37) circle (0.575cm) node[align=center,xshift=0.25mm] {\scalebox{0.45}{disturbing} \\[-2.5mm] \scalebox{0.45}{peace} \\[-2.5mm] \scalebox{0.45}{of mind}};
+	\node at (5.4,-1.7) {\scriptsize Evil};
+	
+	%CIRCLES - BOTTOM ROW
+	\node at (-5.6,-3.05) {\scriptsize Good};
+	\draw (-5.5,-3.84) circle (0.575cm) node {\scalebox{0.45}{useful}};
+	\draw (-4.6,-4.15) circle (0.575cm) node {\scalebox{0.45}{enriching}};
+	\draw (-3.7,-4.4) circle (0.575cm) node[align=center,xshift=-0.2mm] {\scalebox{0.45}{promo-} \\[-2.5mm] \scalebox{0.45}{ting to} \\[-2.5mm] \scalebox{0.45}{public} \\[-2.5mm] \scalebox{0.45}{offices}};
+	\draw (-2.91,-3.9) circle (0.575cm) node[align=center] {\scalebox{0.45}{rendering} \\[-2.5mm] \scalebox{0.45}{fit for} \\[-2.5mm] \scalebox{0.45}{public} \\[-2.5mm] \scalebox{0.45}{duties}};
+	\draw (-2.54,-3) circle (0.575cm) node[align=center] {\scalebox{0.45}{earning} \\[-2.5mm] \scalebox{0.45}{universal} \\[-2.5mm] \scalebox{0.45}{trust}};
+	\draw (-1.6,-2.76) circle (0.575cm) node[align=center] {\scalebox{0.45}{enhancing} \\[-2.5mm] \scalebox{0.45}{prestige}};
+	\draw (-0.64,-3.02) circle (0.575cm) node[align=center] {\scalebox{0.45}{yielding} \\[-2.5mm] \scalebox{0.45}{honour}};
+	\draw (0.35,-2.6) circle (0.675cm) node {\scalebox{0.45}{dangerous}};
+	\draw (1.4,-2.68) circle (0.575cm) node {\scalebox{0.45}{injurious}};
+	\draw (1.79,-3.59) circle (0.575cm) node {\scalebox{0.45}{pernicious}};
+	\draw (0.85,-3.96) circle (0.575cm) node[align=center] {\scalebox{0.45}{incurring} \\[-2.5mm] \scalebox{0.45}{hatred}};
+	\draw (-0.14,-3.93) circle (0.575cm) node[align=center] {\scalebox{0.45}{exciting} \\[-2.5mm] \scalebox{0.45}{envy}};
+	\node at (2.75,-3.8) {\scriptsize Evil};
+	\end{tikzpicture}
+	
+\end{document}
