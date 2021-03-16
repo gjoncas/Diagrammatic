@@ -52,6 +52,12 @@ I have separate repositories for <a href="https://github.com/gjoncas/Econ-Diagra
 
 &nbsp;
 
+![bateson](/pics/bateson-crisis.png)
+<br><b>Bateson - <i>Steps to an Ecology of Mind</i> (1972), p. 491: “Dynamics of Ecological Crisis”</b>
+<br>2021.03.09: Finished.
+
+&nbsp;
+
 ![bergson](/pics/bergson.png)
 <br><b>Bergson - <i>Matter and Memory</i>, pp. 128, 211</b>
 <br>2018.10.16: Finished.
