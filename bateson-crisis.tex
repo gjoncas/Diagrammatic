@@ -1,0 +1,49 @@
+\documentclass[border={0.1cm 0.1cm 0.1cm 0.1cm}]{standalone}  %E,S,W,N
+
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usetikzlibrary{arrows, arrows.meta}
+
+\begin{document}
+	
+	\begin{tikzpicture}[ultra thick]
+	%MIDDLE CIRCLES
+	\draw ({2.85*cos(90+0*120)},{2.85*sin(90+0*120)}) circle (1.8cm) node {\scshape\large population};
+	\draw ({2.85*cos(90+1*120)},{2.85*sin(90+1*120)}) circle (1.8cm) node {\scshape\large technology};
+	\draw ({2.85*cos(90+2*120)},{2.85*sin(90+2*120)}) circle (1.8cm) node {\scshape\large hubris};
+	
+	%OUTER CIRCLES
+	\draw ({5.9*cos(66+0*120)},{5.9*sin(66+0*120)}) circle (1.35cm) node {\scshape\large famine};
+	\draw ({5.9*cos(66+1*120-2)},{5.9*sin(66+1*120-2)}) circle (1.35cm) node {\scshape\large pollution};
+	\draw ({5.9*cos(66+2*120-2)},{5.9*sin(66+2*120-2)}) circle (1.35cm) node {\scshape\large war};
+	
+	%INNER ARROWS
+	\draw[-{Stealth[length=4.5mm,width=3.5mm]}] ({2.85*cos(90+1*120)+1.8*cos(90)},{2.85*sin(90+1*120)+1.8*sin(90)}) to[out=15,in=165] ({{2.85*cos(90+2*120)+1.8*cos(90)}},{{2.85*sin(90+2*120)+1.8*sin(90)}});
+	
+	\draw[-{Stealth[length=4.5mm,width=3.5mm]}] ({2.85*cos(90+0*120)+1.8*cos(-15)},{2.85*sin(90+0*120)+1.8*sin(-15)}) to[out=260,in=40] ({{2.85*cos(90+1*120)+1.8*cos(-33)}},{{2.85*sin(90+1*120)+1.8*sin(-33)}});
+	
+	\draw[-{Stealth[length=4.5mm,width=3.5mm]}] ({2.85*cos(90+2*120)+1.8*cos(215)},{2.85*sin(90+2*120)+1.8*sin(215)}) to[out=135,in=-80] ({{2.85*cos(90+0*120)+1.8*cos(205)}},{{2.85*sin(90+0*120)+1.8*sin(205)}});
+	
+	%OUTER ARROWS
+	\draw[-{Stealth[length=4.5mm,width=3.5mm]}] ({2.85*cos(90+2*120)+1.8*cos(275)},{2.85*sin(90+2*120)+1.8*sin(275)}) to[out=-165,in=-30] ({{5.9*cos(66+1*120-2)+1.35*cos(270)}},{{5.9*sin(66+1*120-2)+1.35*sin(270)}}); %hub--pol
+	
+	\draw[-{Stealth[length=4.5mm,width=3.5mm]}] ({5.9*cos(66+2*120-2)+1.35*cos(240)},{5.9*sin(66+2*120-2)+1.35*sin(240)}) to[out=160,in=-30] ({{2.85*cos(90+1*120)+1.8*cos(265)}},{{2.85*sin(90+1*120)+1.8*sin(265)}}); %war--tech
+	
+	\draw[-{Stealth[length=4.5mm,width=3.5mm]}] ({2.85*cos(90+1*120)+1.8*cos(150)},{2.85*sin(90+1*120)+1.8*sin(150)}) to[out=70,in=-135] ({{2.85*cos(90+0*120)+1.8*cos(150)}},{{2.85*sin(90+0*120)+1.8*sin(150)}}); %tech--pop
+	
+	\draw[-{Stealth[length=4.5mm,width=3.5mm]}] ({2.85*cos(90+0*120)+1.8*cos(135)},{2.85*sin(90+0*120)+1.8*sin(135)}) to[out=45,in=195] ({{5.9*cos(66+0*120)+1.35*cos(170)}},{{5.9*sin(66+0*120)+1.35*sin(170)}}); %pop--fam
+	
+	\draw[-{Stealth[length=4.5mm,width=3.5mm]}] ({2.85*cos(90+0*120)+1.8*cos(45)},{2.85*sin(90+0*120)+1.8*sin(45)}) to[out=-50,in=100] ({{2.85*cos(90+2*120)+1.8*cos(25)}},{{2.85*sin(90+2*120)+1.8*sin(25)}}); %pop--hub
+	
+	\draw[-{Stealth[length=4.5mm,width=3.5mm]}] ({2.85*cos(90+2*120)+1.8*cos(5)},{2.85*sin(90+2*120)+1.8*sin(5)}) to[out=280,in=80] ({{5.9*cos(66+2*120-2)+1.35*cos(45)}},{{5.9*sin(66+2*120-2)+1.35*sin(45)}}); %hub--war
+	
+	%ARROWHEADS
+	\draw[-{Stealth[length=4.5mm,width=3.5mm]}] ({2.85*cos(90+0*120)+1.8*cos(265)},{2.85*sin(90+0*120)+1.8*sin(265)}) -- ({{2.85*cos(90+0*120)+1.8*cos(262)}},{{2.85*sin(90+0*120)+1.8*sin(262)}}); %top
+	
+	\draw[-{Stealth[length=4.5mm,width=3.5mm]}] ({2.85*cos(90+1*120)+1.8*cos(30-5)},{2.85*sin(90+1*120)+1.8*sin(30-5)}) -- ({{2.85*cos(90+1*120)+1.8*cos(30-8)}},{{2.85*sin(90+1*120)+1.8*sin(30-8)}}); %left
+	
+	\draw[-{Stealth[length=4.5mm,width=3.5mm]}] ({2.85*cos(90+2*120)+1.8*cos(135-5)},{2.85*sin(90+2*120)+1.8*sin(135-5)}) -- ({{2.85*cos(90+2*120)+1.8*cos(135-8)}},{{2.85*sin(90+2*120)+1.8*sin(135-8)}}); %right
+	\end{tikzpicture}
+	
+\end{document}
