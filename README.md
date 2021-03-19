@@ -245,6 +245,12 @@ I have separate repositories for <a href="https://github.com/gjoncas/Econ-Diagra
 
 &nbsp;
 
+![simondon-crystal](/pics/simondon-crystal.png)
+<br><b>Simondon - <i>Individuation in Light of Notions of Form and Individuation</i>, vol. 1 (2020), p. 63</b>
+<br>2021.03.06: Finished.
+
+&nbsp;
+
 ![spinoza's metaphysics](/pics/spinoza-deus.png)
 <br><b>“Diagram Illustrating Spinoza’s Metaphysical System,” from Jacobs, J. - “Spinoza, Baruch,” in <i>The Jewish Encyclopedia</i> (<a href="http://www.jewishencyclopedia.com/articles/13964-spinoza-baruch-benedict-de-spinoza">1906</a>)</b>
 <br>2020.08.25: Finished.
