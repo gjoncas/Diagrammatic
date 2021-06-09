@@ -287,6 +287,12 @@ I have separate repositories for <a href="https://github.com/gjoncas/Econ-Diagra
 
 &nbsp;
 
+![whitehead-occasion](/pics/whitehead-occasion.png)
+<br><b>Whitehead's Actual Occasion, by James M. Dow [[source](https://twitter.com/jmatthiasdow/status/1401892108705927168)]</b>
+<br>2021.06.07: Finished.
+
+&nbsp;
+
 ![zizek](/pics/zizek.png)
 <br><b>Žižek - <i>The Plague of Fantasies</i>, p. 223</b>
 <br>2018.03.10: Finished.
