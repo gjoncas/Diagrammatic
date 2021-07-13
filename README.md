@@ -227,6 +227,12 @@ I have separate repositories for <a href="https://github.com/gjoncas/Econ-Diagra
 
 &nbsp;
 
+![schulting](/pics/schulting.png)
+<br><b>“Central argument in <i>Anti-Oedipus</i>,” by Dennis Schulting ([1996](https://twitter.com/AmcCritique/status/1410167574801887240))</b>
+<br>2021.07.03: Finished.
+
+&nbsp;
+
 ![surreal numbers](/pics/surreal-numbers.png)
 <br><b>Matthews - “The man who played God with infinity” (<a href="https://www.newscientist.com/article/mg14719934-300-the-man-who-played-god-with-infinity/">1995</a>)</b>
 <br>2018.01.22: Finished. &nbsp;[surreal numbers]
